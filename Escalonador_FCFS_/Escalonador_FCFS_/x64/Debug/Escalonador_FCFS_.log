@@ -1,0 +1,3 @@
+﻿  driver.c
+C:\Users\127793\Desktop\Escalonadores\Escalonador_FCFS_\Escalonador_FCFS_\driver.c(46,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Escalonador_FCFS_.vcxproj -> C:\Users\127793\Desktop\Escalonadores\Escalonador_FCFS_\x64\Debug\Escalonador_FCFS_.exe
